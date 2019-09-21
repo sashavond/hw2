@@ -1,6 +1,6 @@
 h1 {font-family:helvetica; color:#EB9F86; text-align:center; font-size:12px}
 p {font-family:palatino; font-size:16px; line-height:1.4; margin:300px}
-p.quoted {font-style:italic; font-size:14pt;}
+p.quoted {font-style:italic; font-size:14pt; margin:300px}
 p.center {text-align:center}
     
 a {font-family:helvetica; font-size:20pt; color:#ff0000}
