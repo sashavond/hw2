@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<style type =“text/css” >
+    h1 {color : #234567;
+    font-family:georgia,times}
+    
+    p {font-size:16px; line-height: 1.4;}
+    p.center {font-size:16pt; text-align:center}
+    .quoted {font-style: italic; font-size:14pt;
+    padding-left: 30px;
+    padding-right: 30px;}
+    
+    a {font-family:times; font-size:20pt color :
+    #ff0000}
+    a:hover {color : #00f844;}
+</style>
+
+<head>
+  <title>Practice for HW2</title>
+</head>
+
+<body>
+
+    <h1>This is a Heading</h1>
+    <p>This is a paragraph.</p>
+    <p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
+    
+    <a>facebook.com</a>
+
+</body>
+
+
+
+
+</html>
