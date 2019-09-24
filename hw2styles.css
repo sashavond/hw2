@@ -1,0 +1,87 @@
+h1 {font-family:helvetica;
+    color:#ffffff;
+    text-align:center;
+    font-size:68px;
+}
+
+h2 {font-family:helvetica;
+    color:#ffffff;
+    text-align:center;
+    font-size:48px;
+}
+
+h3 {font-family:helvetica;
+    color:#ffffff;
+    text-align: center;
+    font-size: 16px;
+}
+
+header {position:fixed;
+  height:50px;
+  top:30px;
+  left:30px;
+  z-index:100;
+  background:#d9ffe3;
+  width:50px;
+  overflow:hidden;
+  display:block;
+}
+
+footer{position:fixed;
+       bottom:30px;
+       z-index:100;
+}
+
+p {font-family:palatino;
+    font-size:16px;
+    line-height:1.4;
+    margin-top:69px;
+    margin-left:400px;
+    margin-right:400px;
+    margin-bottom:69px;
+}
+
+p.quoted {font-style:italic;
+    font-size:14pt;
+    margin-top:0px;
+    margin-left:300px;
+    margin-right:300px;
+    text-align:center
+}
+
+p.center {text-align:center
+}
+
+p.left {text-align: left
+}
+
+a {font-family:palatino;
+    font-size:20px;
+    color:#428720
+}
+
+a.email {font-family:palatino;
+        font-size:16px;
+        color: #4287f5
+}
+
+a:hover {color:#00f844;
+}
+
+body {background-color: #000000
+}
+
+button {
+  background-color: #ffffff;
+  border: none;
+  color: #000000;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  font-family:palatino;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #8c433c;
+}
